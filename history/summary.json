@@ -4,61 +4,67 @@
     "url": "https://www.vilt-group.com",
     "icon": "https://favicons.githubusercontent.com/www.vilt-group.com",
     "slug": "corporate-site",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 387,
     "timeDay": 409,
     "timeWeek": 387,
     "timeMonth": 387,
     "timeYear": 387,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-04": 2
+    }
   },
   {
     "name": "Athena",
     "url": "https://athena.vilt-group.com",
     "icon": "https://favicons.githubusercontent.com/athena.vilt-group.com",
     "slug": "athena",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 512,
     "timeDay": 567,
     "timeWeek": 512,
     "timeMonth": 512,
     "timeYear": 512,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-04": 1
+    }
   },
   {
     "name": "Zeus",
     "url": "https://zeus.vilt-group.com/",
     "icon": "https://favicons.githubusercontent.com/zeus.vilt-group.com",
     "slug": "zeus",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 831,
     "timeDay": 935,
     "timeWeek": 831,
     "timeMonth": 831,
     "timeYear": 831,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-04": 1
+    }
   },
   {
     "name": "Aura",
     "url": "https://aura.vilt-group.com/",
     "icon": "https://favicons.githubusercontent.com/aura.vilt-group.com",
     "slug": "aura",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +75,8 @@
     "timeWeek": 1478,
     "timeMonth": 1478,
     "timeYear": 1478,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-04": 0
+    }
   }
 ]
