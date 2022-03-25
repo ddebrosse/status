@@ -4,10 +4,10 @@
     "url": "https://www.vilt-group.com",
     "icon": "https://favicons.githubusercontent.com/www.vilt-group.com",
     "slug": "corporate-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 364,
@@ -15,17 +15,19 @@
     "timeWeek": 337,
     "timeMonth": 364,
     "timeYear": 364,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-25": 2
+    }
   },
   {
     "name": "Athena",
     "url": "https://athena.vilt-group.com",
     "icon": "https://favicons.githubusercontent.com/athena.vilt-group.com",
     "slug": "athena",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 505,
@@ -33,17 +35,19 @@
     "timeWeek": 476,
     "timeMonth": 505,
     "timeYear": 505,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-25": 1
+    }
   },
   {
     "name": "Zeus",
     "url": "https://zeus.vilt-group.com/",
     "icon": "https://favicons.githubusercontent.com/zeus.vilt-group.com",
     "slug": "zeus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 834,
@@ -51,16 +55,18 @@
     "timeWeek": 785,
     "timeMonth": 834,
     "timeYear": 834,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-25": 1
+    }
   },
   {
     "name": "Aura",
     "url": "https://aura.vilt-group.com/",
     "icon": "https://favicons.githubusercontent.com/aura.vilt-group.com",
     "slug": "aura",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +75,8 @@
     "timeWeek": 1399,
     "timeMonth": 1439,
     "timeYear": 1439,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-25": 0
+    }
   }
 ]
