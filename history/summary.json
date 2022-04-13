@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 366,
-    "timeDay": 307,
-    "timeWeek": 370,
-    "timeMonth": 370,
-    "timeYear": 366,
+    "time": 368,
+    "timeDay": 471,
+    "timeWeek": 394,
+    "timeMonth": 375,
+    "timeYear": 368,
     "dailyMinutesDown": {
       "2022-03-25": 27
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 511,
-    "timeDay": 479,
-    "timeWeek": 518,
-    "timeMonth": 521,
-    "timeYear": 511,
+    "time": 515,
+    "timeDay": 714,
+    "timeWeek": 559,
+    "timeMonth": 528,
+    "timeYear": 515,
     "dailyMinutesDown": {
       "2022-03-25": 27
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 845,
-    "timeDay": 747,
-    "timeWeek": 832,
-    "timeMonth": 868,
-    "timeYear": 845,
+    "time": 850,
+    "timeDay": 1104,
+    "timeWeek": 886,
+    "timeMonth": 878,
+    "timeYear": 850,
     "dailyMinutesDown": {
       "2022-03-25": 26
     }
@@ -65,18 +65,17 @@
     "icon": "https://favicons.githubusercontent.com/aura.vilt-group.com",
     "slug": "aura",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.94%",
-    "time": 1443,
-    "timeDay": 1043,
-    "timeWeek": 1338,
-    "timeMonth": 1458,
-    "timeYear": 1443,
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
+    "time": 1445,
+    "timeDay": 1123,
+    "timeWeek": 1369,
+    "timeMonth": 1464,
+    "timeYear": 1445,
     "dailyMinutesDown": {
-      "2022-04-12": 14,
       "2022-03-25": 26
     }
   }
