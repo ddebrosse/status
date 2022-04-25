@@ -4,10 +4,10 @@
     "url": "https://www.vilt-group.com",
     "icon": "https://favicons.githubusercontent.com/www.vilt-group.com",
     "slug": "corporate-site",
-    "status": "up",
+    "status": "down",
     "uptime": "98.68%",
-    "uptimeDay": "24.26%",
-    "uptimeWeek": "89.18%",
+    "uptimeDay": "24.15%",
+    "uptimeWeek": "89.16%",
     "uptimeMonth": "97.51%",
     "uptimeYear": "98.68%",
     "time": 368,
@@ -16,7 +16,7 @@
     "timeMonth": 369,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2022-04-25": 850,
+      "2022-04-25": 852,
       "2022-04-24": 240,
       "2022-03-25": 27
     }
@@ -26,10 +26,10 @@
     "url": "https://athena.vilt-group.com",
     "icon": "https://favicons.githubusercontent.com/athena.vilt-group.com",
     "slug": "athena",
-    "status": "up",
+    "status": "down",
     "uptime": "98.68%",
-    "uptimeDay": "24.30%",
-    "uptimeWeek": "89.19%",
+    "uptimeDay": "24.22%",
+    "uptimeWeek": "89.17%",
     "uptimeMonth": "97.51%",
     "uptimeYear": "98.68%",
     "time": 514,
@@ -38,7 +38,7 @@
     "timeMonth": 518,
     "timeYear": 514,
     "dailyMinutesDown": {
-      "2022-04-25": 850,
+      "2022-04-25": 851,
       "2022-04-24": 240,
       "2022-03-25": 27
     }
@@ -48,10 +48,10 @@
     "url": "https://zeus.vilt-group.com/",
     "icon": "https://favicons.githubusercontent.com/zeus.vilt-group.com",
     "slug": "zeus",
-    "status": "up",
+    "status": "down",
     "uptime": "98.69%",
-    "uptimeDay": "24.33%",
-    "uptimeWeek": "89.19%",
+    "uptimeDay": "24.29%",
+    "uptimeWeek": "89.18%",
     "uptimeMonth": "97.51%",
     "uptimeYear": "98.69%",
     "time": 847,
@@ -60,7 +60,7 @@
     "timeMonth": 855,
     "timeYear": 847,
     "dailyMinutesDown": {
-      "2022-04-25": 850,
+      "2022-04-25": 851,
       "2022-04-24": 239,
       "2022-03-25": 26
     }
@@ -70,7 +70,7 @@
     "url": "https://aura.vilt-group.com/",
     "icon": "https://favicons.githubusercontent.com/aura.vilt-group.com",
     "slug": "aura",
-    "status": "up",
+    "status": "down",
     "uptime": "98.69%",
     "uptimeDay": "24.36%",
     "uptimeWeek": "89.19%",
