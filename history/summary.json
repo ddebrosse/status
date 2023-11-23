@@ -4,9 +4,9 @@
     "url": "https://www.vilt-group.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.vilt-group.com.ico",
     "slug": "corporate-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 522,
     "timeMonth": 487,
     "timeYear": 489,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-23": 0
+    }
   },
   {
     "name": "Athena",
     "url": "https://athena.vilt-group.com",
     "icon": "https://icons.duckduckgo.com/ip3/athena.vilt-group.com.ico",
     "slug": "athena",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -34,6 +36,7 @@
     "timeMonth": 662,
     "timeYear": 694,
     "dailyMinutesDown": {
+      "2023-11-23": 0,
       "2023-10-24": 17,
       "2022-11-28": 43
     }
@@ -43,9 +46,9 @@
     "url": "https://zeus.vilt-group.com/",
     "icon": "https://icons.duckduckgo.com/ip3/zeus.vilt-group.com.ico",
     "slug": "zeus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.95%",
@@ -55,6 +58,7 @@
     "timeMonth": 1108,
     "timeYear": 1086,
     "dailyMinutesDown": {
+      "2023-11-23": 0,
       "2023-11-09": 103,
       "2023-05-30": 20,
       "2023-05-11": 22,
@@ -68,18 +72,19 @@
     "url": "https://aura.vilt-group.com/",
     "icon": "https://icons.duckduckgo.com/ip3/aura.vilt-group.com.ico",
     "slug": "aura",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1707,
-    "timeDay": 1761,
+    "timeDay": 2697,
     "timeWeek": 1733,
     "timeMonth": 1610,
     "timeYear": 1733,
     "dailyMinutesDown": {
+      "2023-11-23": 0,
       "2023-11-22": 18,
       "2023-08-23": 18,
       "2023-05-25": 20
