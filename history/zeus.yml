@@ -1,7 +1,7 @@
 url: https://zeus.vilt-group.com/
-status: up
-code: 200
-responseTime: 7568
-lastUpdated: 2024-04-06T16:29:20.668Z
+status: down
+code: 401
+responseTime: 428
+lastUpdated: 2024-04-06T16:38:51.492Z
 startTime: 2022-02-25T15:58:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
