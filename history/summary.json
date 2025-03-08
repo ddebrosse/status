@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 478,
-    "timeDay": 517,
-    "timeWeek": 465,
-    "timeMonth": 457,
-    "timeYear": 481,
+    "time": 479,
+    "timeDay": 585,
+    "timeWeek": 483,
+    "timeMonth": 461,
+    "timeYear": 480,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 700,
-    "timeDay": 694,
-    "timeWeek": 696,
-    "timeMonth": 648,
-    "timeYear": 713,
+    "timeDay": 815,
+    "timeWeek": 728,
+    "timeMonth": 654,
+    "timeYear": 707,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zeus.vilt-group.com.ico",
     "slug": "zeus",
     "status": "up",
-    "uptime": "75.78%",
+    "uptime": "75.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "27.39%",
-    "time": 826,
-    "timeDay": 1236,
-    "timeWeek": 1316,
-    "timeMonth": 1267,
-    "timeYear": 743,
+    "uptimeYear": "27.66%",
+    "time": 827,
+    "timeDay": 1695,
+    "timeWeek": 1393,
+    "timeMonth": 1280,
+    "timeYear": 746,
     "dailyMinutesDown": {
       "2025-02-06": 18,
       "2024-11-27": 118,
@@ -316,8 +316,7 @@
       "2024-03-12": 1440,
       "2024-03-11": 1440,
       "2024-03-10": 1440,
-      "2024-03-09": 1440,
-      "2024-03-08": 1440
+      "2024-03-09": 1440
     }
   },
   {
@@ -330,12 +329,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.61%",
-    "time": 1661,
-    "timeDay": 1614,
-    "timeWeek": 1673,
-    "timeMonth": 1651,
-    "timeYear": 1657,
+    "uptimeYear": "98.71%",
+    "time": 1662,
+    "timeDay": 2033,
+    "timeWeek": 1695,
+    "timeMonth": 1647,
+    "timeYear": 1664,
     "dailyMinutesDown": {
       "2025-01-10": 33,
       "2024-10-05": 189,
@@ -352,8 +351,7 @@
       "2024-04-22": 34,
       "2024-04-08": 557,
       "2024-04-07": 1440,
-      "2024-04-06": 441,
-      "2024-03-08": 1029
+      "2024-04-06": 441
     }
   }
 ]
