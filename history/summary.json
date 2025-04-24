@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 478,
-    "timeDay": 569,
-    "timeWeek": 496,
-    "timeMonth": 485,
-    "timeYear": 483,
+    "time": 477,
+    "timeDay": 381,
+    "timeWeek": 500,
+    "timeMonth": 482,
+    "timeYear": 482,
     "dailyMinutesDown": {
       "2025-04-10": 37
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 701,
-    "timeDay": 890,
+    "timeDay": 626,
     "timeWeek": 752,
-    "timeMonth": 726,
-    "timeYear": 701,
+    "timeMonth": 723,
+    "timeYear": 700,
     "dailyMinutesDown": {
       "2025-04-10": 37
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zeus.vilt-group.com.ico",
     "slug": "zeus",
     "status": "up",
-    "uptime": "76.76%",
+    "uptime": "76.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "40.26%",
-    "time": 848,
-    "timeDay": 1752,
-    "timeWeek": 1447,
-    "timeMonth": 1355,
-    "timeYear": 832,
+    "uptimeYear": "40.54%",
+    "time": 849,
+    "timeDay": 1164,
+    "timeWeek": 1434,
+    "timeMonth": 1348,
+    "timeYear": 834,
     "dailyMinutesDown": {
       "2025-04-10": 48,
       "2025-02-06": 18,
@@ -274,8 +274,7 @@
       "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
-      "2024-04-25": 1440,
-      "2024-04-24": 1440
+      "2024-04-25": 1440
     }
   },
   {
@@ -288,12 +287,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
-    "uptimeYear": "99.33%",
-    "time": 1662,
-    "timeDay": 1960,
-    "timeWeek": 1907,
-    "timeMonth": 1713,
-    "timeYear": 1678,
+    "uptimeYear": "99.39%",
+    "time": 1663,
+    "timeDay": 1813,
+    "timeWeek": 1956,
+    "timeMonth": 1721,
+    "timeYear": 1680,
     "dailyMinutesDown": {
       "2025-04-10": 37,
       "2025-03-28": 106,
