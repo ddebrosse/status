@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 484,
-    "timeDay": 436,
-    "timeWeek": 490,
-    "timeMonth": 479,
-    "timeYear": 488,
+    "time": 483,
+    "timeDay": 459,
+    "timeWeek": 472,
+    "timeMonth": 480,
+    "timeYear": 487,
     "dailyMinutesDown": {
       "2025-06-12": 34,
       "2025-04-10": 37
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 717,
-    "timeDay": 592,
-    "timeWeek": 704,
-    "timeMonth": 684,
+    "timeDay": 652,
+    "timeWeek": 675,
+    "timeMonth": 687,
     "timeYear": 731,
     "dailyMinutesDown": {
       "2025-06-30": 17,
@@ -50,16 +50,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zeus.vilt-group.com.ico",
     "slug": "zeus",
     "status": "up",
-    "uptime": "78.93%",
+    "uptime": "78.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "72.85%",
-    "time": 966,
-    "timeDay": 1159,
-    "timeWeek": 1395,
+    "uptimeYear": "73.12%",
+    "time": 967,
+    "timeDay": 1201,
+    "timeWeek": 1315,
     "timeMonth": 1356,
-    "timeYear": 1127,
+    "timeYear": 1128,
     "dailyMinutesDown": {
       "2025-06-12": 34,
       "2025-04-29": 55,
@@ -162,8 +162,7 @@
       "2024-08-25": 1440,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
-      "2024-08-22": 1440,
-      "2024-08-21": 1440
+      "2024-08-22": 1440
     }
   },
   {
@@ -177,11 +176,11 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.25%",
-    "time": 1743,
-    "timeDay": 1792,
-    "timeWeek": 1793,
-    "timeMonth": 1872,
-    "timeYear": 1758,
+    "time": 1744,
+    "timeDay": 1886,
+    "timeWeek": 1769,
+    "timeMonth": 1880,
+    "timeYear": 1761,
     "dailyMinutesDown": {
       "2025-08-14": 16,
       "2025-07-08": 23,
@@ -197,8 +196,7 @@
       "2024-10-01": 797,
       "2024-09-10": 698,
       "2024-09-09": 567,
-      "2024-08-29": 25,
-      "2024-08-21": 40
+      "2024-08-29": 25
     }
   }
 ]
