@@ -1,7 +1,7 @@
 url: https://aura.vilt-group.com/
-status: up
-code: 200
-responseTime: 1973
-lastUpdated: 2025-09-03T23:08:23.879Z
+status: down
+code: 503
+responseTime: 617
+lastUpdated: 2025-09-04T09:56:03.328Z
 startTime: 2022-02-25T16:08:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
