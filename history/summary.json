@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 490,
-    "timeDay": 459,
-    "timeWeek": 425,
-    "timeMonth": 454,
-    "timeYear": 493,
+    "timeDay": 544,
+    "timeWeek": 423,
+    "timeMonth": 458,
+    "timeYear": 492,
     "dailyMinutesDown": {
       "2026-01-11": 29,
       "2026-01-05": 43,
@@ -23,8 +23,7 @@
       "2025-11-06": 37,
       "2025-11-02": 28,
       "2025-10-20": 28,
-      "2025-06-12": 34,
-      "2025-04-10": 37
+      "2025-06-12": 34
     }
   },
   {
@@ -38,11 +37,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 729,
-    "timeDay": 583,
-    "timeWeek": 605,
-    "timeMonth": 637,
-    "timeYear": 738,
+    "time": 726,
+    "timeDay": 649,
+    "timeWeek": 612,
+    "timeMonth": 641,
+    "timeYear": 737,
     "dailyMinutesDown": {
       "2026-01-11": 29,
       "2026-01-05": 43,
@@ -54,8 +53,7 @@
       "2025-06-30": 17,
       "2025-06-26": 43,
       "2025-06-12": 34,
-      "2025-05-29": 21,
-      "2025-04-10": 37
+      "2025-05-29": 21
     }
   },
   {
@@ -64,16 +62,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zeus.vilt-group.com.ico",
     "slug": "zeus",
     "status": "up",
-    "uptime": "82.17%",
+    "uptime": "82.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.93%",
-    "time": 1375,
-    "timeDay": 1216,
-    "timeWeek": 1212,
-    "timeMonth": 1266,
-    "timeYear": 1393,
+    "time": 1374,
+    "timeDay": 1272,
+    "timeWeek": 1190,
+    "timeMonth": 1270,
+    "timeYear": 1391,
     "dailyMinutesDown": {
       "2026-03-19": 24,
       "2026-01-11": 28,
@@ -84,8 +82,7 @@
       "2025-11-02": 27,
       "2025-10-20": 27,
       "2025-06-12": 34,
-      "2025-04-29": 55,
-      "2025-04-10": 48
+      "2025-04-29": 55
     }
   },
   {
@@ -96,13 +93,13 @@
     "status": "up",
     "uptime": "99.48%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.52%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.69%",
     "time": 1842,
-    "timeDay": 1979,
-    "timeWeek": 1766,
-    "timeMonth": 1868,
+    "timeDay": 2098,
+    "timeWeek": 1954,
+    "timeMonth": 1875,
     "timeYear": 1901,
     "dailyMinutesDown": {
       "2026-04-02": 48,
@@ -130,8 +127,7 @@
       "2025-07-01": 37,
       "2025-06-12": 33,
       "2025-04-29": 23,
-      "2025-04-28": 647,
-      "2025-04-10": 37
+      "2025-04-28": 647
     }
   }
 ]
