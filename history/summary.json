@@ -65,7 +65,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/zeus.vilt-group.com.ico",
     "slug": "zeus",
     "status": "up",
-    "uptime": "82.78%",
+    "uptime": "82.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
@@ -95,15 +95,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/aura.vilt-group.com.ico",
     "slug": "aura",
     "status": "down",
-    "uptime": "99.49%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.77%",
+    "uptime": "99.48%",
+    "uptimeDay": "80.06%",
+    "uptimeWeek": "97.15%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.72%",
     "time": 1866,
     "timeDay": 647,
     "timeWeek": 1830,
-    "timeMonth": 2065,
+    "timeMonth": 2069,
     "timeYear": 1918,
     "dailyMinutesDown": {
       "2025-06-12": 33,
@@ -135,7 +135,7 @@
       "2026-05-02": 73,
       "2026-05-01": 20,
       "2026-05-05": 68,
-      "2026-06-02": 0
+      "2026-06-02": 287
     }
   }
 ]
