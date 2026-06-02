@@ -94,16 +94,16 @@
     "url": "https://aura.vilt-group.com/",
     "icon": "https://icons.duckduckgo.com/ip3/aura.vilt-group.com.ico",
     "slug": "aura",
-    "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "80.06%",
-    "uptimeWeek": "97.15%",
-    "uptimeMonth": "99.19%",
-    "uptimeYear": "99.72%",
+    "status": "up",
+    "uptime": "99.45%",
+    "uptimeDay": "37.14%",
+    "uptimeWeek": "91.02%",
+    "uptimeMonth": "97.78%",
+    "uptimeYear": "99.60%",
     "time": 1866,
-    "timeDay": 647,
-    "timeWeek": 1830,
-    "timeMonth": 2069,
+    "timeDay": 1251,
+    "timeWeek": 1833,
+    "timeMonth": 2062,
     "timeYear": 1918,
     "dailyMinutesDown": {
       "2025-06-12": 33,
@@ -135,7 +135,7 @@
       "2026-05-02": 73,
       "2026-05-01": 20,
       "2026-05-05": 68,
-      "2026-06-02": 287
+      "2026-06-02": 905
     }
   }
 ]
