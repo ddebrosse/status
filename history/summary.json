@@ -4,16 +4,16 @@
     "url": "https://www.vilt-group.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.vilt-group.com.ico",
     "slug": "corporate-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.93%",
     "time": 483,
-    "timeDay": 300,
-    "timeWeek": 373,
-    "timeMonth": 401,
+    "timeDay": 433,
+    "timeWeek": 368,
+    "timeMonth": 397,
     "timeYear": 484,
     "dailyMinutesDown": {
       "2025-06-12": 34,
@@ -25,7 +25,8 @@
       "2026-01-05": 43,
       "2026-01-11": 29,
       "2026-04-11": 58,
-      "2026-05-05": 69
+      "2026-05-05": 69,
+      "2026-06-11": 15
     }
   },
   {
@@ -33,15 +34,15 @@
     "url": "https://athena.vilt-group.com",
     "icon": "https://icons.duckduckgo.com/ip3/athena.vilt-group.com.ico",
     "slug": "athena",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.92%",
-    "time": 734,
-    "timeDay": 651,
-    "timeWeek": 767,
+    "time": 735,
+    "timeDay": 949,
+    "timeWeek": 757,
     "timeMonth": 829,
     "timeYear": 742,
     "dailyMinutesDown": {
@@ -56,7 +57,8 @@
       "2026-01-05": 43,
       "2026-01-11": 29,
       "2026-04-11": 57,
-      "2026-05-05": 69
+      "2026-05-05": 69,
+      "2026-06-11": 10
     }
   },
   {
@@ -64,16 +66,16 @@
     "url": "https://zeus.vilt-group.com/",
     "icon": "https://icons.duckduckgo.com/ip3/zeus.vilt-group.com.ico",
     "slug": "zeus",
-    "status": "up",
-    "uptime": "82.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "82.88%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.93%",
-    "time": 1399,
-    "timeDay": 1345,
-    "timeWeek": 1520,
-    "timeMonth": 1608,
+    "time": 1400,
+    "timeDay": 1787,
+    "timeWeek": 1503,
+    "timeMonth": 1606,
     "timeYear": 1412,
     "dailyMinutesDown": {
       "2025-06-12": 34,
@@ -86,7 +88,8 @@
       "2026-01-11": 28,
       "2026-03-19": 24,
       "2026-04-11": 57,
-      "2026-05-05": 69
+      "2026-05-05": 69,
+      "2026-06-11": 5
     }
   },
   {
@@ -94,17 +97,17 @@
     "url": "https://aura.vilt-group.com/",
     "icon": "https://icons.duckduckgo.com/ip3/aura.vilt-group.com.ico",
     "slug": "aura",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.93%",
     "uptimeYear": "99.60%",
-    "time": 1873,
-    "timeDay": 2065,
-    "timeWeek": 1983,
-    "timeMonth": 2025,
-    "timeYear": 1920,
+    "time": 1874,
+    "timeDay": 1974,
+    "timeWeek": 1982,
+    "timeMonth": 2017,
+    "timeYear": 1919,
     "dailyMinutesDown": {
       "2025-06-12": 33,
       "2025-07-01": 37,
@@ -135,7 +138,8 @@
       "2026-05-02": 73,
       "2026-05-01": 20,
       "2026-05-05": 68,
-      "2026-06-02": 905
+      "2026-06-02": 905,
+      "2026-06-11": 0
     }
   }
 ]
