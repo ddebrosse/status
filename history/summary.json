@@ -76,17 +76,17 @@
     "url": "https://zeus.vilt-group.com/",
     "icon": "https://icons.duckduckgo.com/ip3/zeus.vilt-group.com.ico",
     "slug": "zeus",
-    "status": "down",
+    "status": "up",
     "uptime": "83.32%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.22%",
-    "uptimeYear": "99.69%",
-    "time": 1410,
-    "timeDay": 1104,
-    "timeWeek": 1440,
-    "timeMonth": 1584,
-    "timeYear": 1436,
+    "uptimeDay": "92.86%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "99.67%",
+    "time": 1411,
+    "timeDay": 1409,
+    "timeWeek": 1505,
+    "timeMonth": 1598,
+    "timeYear": 1438,
     "dailyMinutesDown": {
       "2025-10-20": 27,
       "2025-11-02": 27,
@@ -106,7 +106,7 @@
       "2026-06-27": 64,
       "2026-06-28": 147,
       "2026-06-29": 193,
-      "2026-07-27": 0
+      "2026-07-27": 103
     }
   },
   {
