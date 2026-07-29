@@ -4,13 +4,13 @@
     "url": "https://www.vilt-group.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.vilt-group.com.ico",
     "slug": "corporate-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.68%",
-    "time": 474,
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.67%",
+    "time": 475,
     "timeDay": 463,
     "timeWeek": 396,
     "timeMonth": 405,
@@ -32,7 +32,8 @@
       "2026-06-24": 185,
       "2026-06-27": 74,
       "2026-06-28": 157,
-      "2026-06-29": 203
+      "2026-06-29": 203,
+      "2026-07-29": 11
     }
   },
   {
@@ -40,11 +41,11 @@
     "url": "https://athena.vilt-group.com",
     "icon": "https://icons.duckduckgo.com/ip3/athena.vilt-group.com.ico",
     "slug": "athena",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.55%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "99.68%",
     "time": 745,
     "timeDay": 937,
@@ -68,7 +69,8 @@
       "2026-06-24": 180,
       "2026-06-27": 69,
       "2026-06-28": 152,
-      "2026-06-29": 198
+      "2026-06-29": 198,
+      "2026-07-29": 6
     }
   },
   {
@@ -76,13 +78,13 @@
     "url": "https://zeus.vilt-group.com/",
     "icon": "https://icons.duckduckgo.com/ip3/zeus.vilt-group.com.ico",
     "slug": "zeus",
-    "status": "up",
+    "status": "down",
     "uptime": "83.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.98%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "98.96%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.67%",
-    "time": 1412,
+    "time": 1413,
     "timeDay": 2038,
     "timeWeek": 1459,
     "timeMonth": 1577,
@@ -106,7 +108,8 @@
       "2026-06-27": 64,
       "2026-06-28": 147,
       "2026-06-29": 193,
-      "2026-07-27": 103
+      "2026-07-27": 103,
+      "2026-07-29": 2
     }
   },
   {
