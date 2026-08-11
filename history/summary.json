@@ -42,16 +42,16 @@
     "url": "https://athena.vilt-group.com",
     "icon": "https://icons.duckduckgo.com/ip3/athena.vilt-group.com.ico",
     "slug": "athena",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.64%",
-    "time": 750,
-    "timeDay": 1041,
-    "timeWeek": 922,
-    "timeMonth": 896,
+    "uptimeDay": "96.00%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.63%",
+    "time": 751,
+    "timeDay": 959,
+    "timeWeek": 917,
+    "timeMonth": 895,
     "timeYear": 753,
     "dailyMinutesDown": {
       "2025-10-20": 27,
@@ -73,7 +73,7 @@
       "2026-06-29": 198,
       "2026-07-29": 164,
       "2026-08-08": 80,
-      "2026-08-11": 10
+      "2026-08-11": 58
     }
   },
   {
@@ -81,16 +81,16 @@
     "url": "https://zeus.vilt-group.com/",
     "icon": "https://icons.duckduckgo.com/ip3/zeus.vilt-group.com.ico",
     "slug": "zeus",
-    "status": "down",
+    "status": "up",
     "uptime": "83.43%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "93.57%",
-    "uptimeMonth": "97.92%",
+    "uptimeDay": "96.34%",
+    "uptimeWeek": "93.10%",
+    "uptimeMonth": "97.81%",
     "uptimeYear": "99.51%",
-    "time": 1421,
-    "timeDay": 1951,
-    "timeWeek": 1455,
-    "timeMonth": 1558,
+    "time": 1422,
+    "timeDay": 1839,
+    "timeWeek": 1479,
+    "timeMonth": 1562,
     "timeYear": 1446,
     "dailyMinutesDown": {
       "2025-10-20": 27,
@@ -116,7 +116,7 @@
       "2026-08-06": 374,
       "2026-08-05": 193,
       "2026-08-08": 75,
-      "2026-08-11": 5
+      "2026-08-11": 53
     }
   },
   {
@@ -124,16 +124,16 @@
     "url": "https://aura.vilt-group.com/",
     "icon": "https://icons.duckduckgo.com/ip3/aura.vilt-group.com.ico",
     "slug": "aura",
-    "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.37%",
-    "time": 1913,
-    "timeDay": 2178,
-    "timeWeek": 2003,
-    "timeMonth": 1948,
+    "status": "up",
+    "uptime": "99.41%",
+    "uptimeDay": "96.67%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.36%",
+    "time": 1914,
+    "timeDay": 2039,
+    "timeWeek": 1991,
+    "timeMonth": 1946,
     "timeYear": 1918,
     "dailyMinutesDown": {
       "2025-08-14": 16,
@@ -172,7 +172,7 @@
       "2026-06-28": 143,
       "2026-06-29": 188,
       "2026-08-08": 70,
-      "2026-08-11": 0
+      "2026-08-11": 48
     }
   }
 ]
